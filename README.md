@@ -32,7 +32,7 @@ Parmi les documents sur les Bilans alimentaires que vous avez téléchargés, il
 - Autres utilisations 
 
 **Question 2**: Identifiez ces redondances, en donnant votre réponse sous forme de formule mathématique (pas besoin de coder ici :soleil: ). 
-C'est une équation à 3 termes de type \(a_1 + a2 + [...] = b_1 + b_2 + [...] = c_1 + c_2 + [...]\) ) faisant intervenir chacune des 11 quantités données ci dessus. Illustrez cette équation avec l'exemple du blé en France. Pour avoir un indice, cliquez sur "Définitions et Standards" sur **la page de téléchargement** des données.
+C'est une équation à 3 termes de type \(a_1 + a2 + [...] = b_1 + b_2 + [...] = c_1 + c_2 + [...]\) ) faisant intervenir chacune des 11 quantités données ci dessus. Illustrez cette équation avec l'exemple du blé en France. Pour avoir un indice, cliquez sur "Définitions et Standards" sur **[la page de téléchargement](http://www.fao.org/faostat/fr/#data/FBS)** des données.
 
 **Question 3**: Calculez (pour chaque pays et chaque produit) la disponibilité alimentaire en kcal puis en kg de protéines.
 >Vous ferez cela à partir de ces informations :
@@ -41,7 +41,7 @@ Population de chaque pays ;
 Disponibilité alimentaire donnée pour chaque produit et pour chaque pays en kcal/personne/jour.
 Disponibilité alimentaire en protéines donnée pour chaque produit et pour chaque pays en g/personne/jour.
 
-**Question 4**: A partir de ces dernières informations, et à partir du poids de la disponibilité alimentaire (pour chaque pays et chaque produit), calculez pour chaque produit le ratio "énergie/poids", que vous donnerez en kcal/kg. Vous pouvez vérifier la cohérence de votre calcul en comparant ce ratio aux données disponibles sur internet, par exemple en cherchant la **valeur calorique d'un oeuf**.
+**Question 4**: A partir de ces dernières informations, et à partir du poids de la disponibilité alimentaire (pour chaque pays et chaque produit), calculez pour chaque produit le ratio "énergie/poids", que vous donnerez en kcal/kg. Vous pouvez vérifier la cohérence de votre calcul en comparant ce ratio aux données disponibles sur internet, par exemple en cherchant la **[valeur calorique d'un oeuf](https://fr.wikipedia.org/wiki/%C5%92uf_(aliment))**.
 
 Indication : La disponibilité alimentaire en kcal/personne/jour est calculée par la FAO en multipliant la quantité Nourriture par le ratio énergie/poids (en kcal/kg), puis en le divisant par la population du pays puis par 365. Ici, on vous demande juste de retrouver le ratio énergie/poids que la FAO a utilisé dans son calcul.
 
@@ -132,7 +132,7 @@ Une table appelée **population**, contenant la population de chaque pays pour 2
 **Question 20** : pour quelques-uns des produits identifiés dans cette dernière requête SQL, supposez quelles sont ces "autres utilisations" possibles (recherchez sur Internet !)
 
 ## Les données
-Le fichiers de données transmis en pièces jointes contient de 5 fichiers:
+Le fichiers de données transmis en pièces jointes contient 5 fichiers:
 1. fr_animaux.csv : multiples indicateurs de production des produits animaux en 2013
 2. fr_population.csv: population mondiale par pays en 2013
 3. fr_vegetaux.csv: multiples indicateurs de production des produits végétaux en 2013
