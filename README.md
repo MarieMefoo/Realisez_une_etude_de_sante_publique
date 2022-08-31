@@ -1,5 +1,5 @@
 # Réalisez une étude de santé publique
-Ce projet à été réalisé dans le cadre de ma formation de data analyst chez Openclassrooms.Intitulé réalisez une étude de santé publique, il est question d'analyser les données de bilans alimentaires issues de la FAO pour comprendre les causes de la sous nutrition dans le monde.
+Ce projet à été réalisé dans le cadre de ma formation de data analyst chez Openclassrooms. Intitulé réalisez une étude de santé publique, il est question d'analyser les données de bilans alimentaires issues de la FAO pour comprendre les causes de la sous nutrition dans le monde.
 ## Mise en situation
 Vous êtes intégré à une nouvelle équipe de chercheurs de la [Food and Agriculture Organization of the United Nations (FAO)](https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies_pour_l%27alimentation_et_l%27agriculture), l'un des organes qui compose l'ONU et dont l'objectif est d' « aider à construire un monde libéré de la faim ».
 
@@ -141,9 +141,10 @@ Le fichiers de données transmis en pièces jointes contient 5 fichiers:
 2013 à 2017.
 
 # Compétences évaluées
-- Effectuer des requêtes complexes en SQL
-- Appliquer l'algèbre relationelle en python ou en R
 - Récupérer les données à partir d'une source identifiée
-- Maîtriser les bases de Python ou de R
-- Utiliser une documentation technique
+- Crée un environnement de développement
 - Utiliser les librairies spécialisées pour la data science
+- Effectuer des requêtes complexes en SQL
+- Appliquer l'algèbre relationelle en python
+- Utiliser une documentation technique
+
